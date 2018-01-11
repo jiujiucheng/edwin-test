@@ -1,0 +1,34 @@
+{  
+      "name": "edwin/edwin-test",  
+      "description": "Yii2 edwin edwin-test",  
+      "keywords": [  
+        "yii2",  
+        "edwintest"  
+      ],  
+      "homepage": "https://github.com/zhangyaohui1986/edwin-test",  
+      "type": "yii2-extension",  
+      "license": "MIT",  
+      "support": {  
+        "source": "https://github.com/zhangyaohui1986/edwin-test"  
+      },  
+      "authors": [  
+        {  
+          "name": "edwin chang",  
+          "email": "511191969@qq.com"  
+        }  
+      ],  
+      "minimum-stability": "stable",  
+      "require": {  
+        "php": ">=5.4.0",  
+        "yiisoft/yii2": ">=2.0.6"  
+         
+      },  
+      "autoload": {  
+        "psr-4": {  
+          "edwin\\": ""  
+        }  
+      },  
+      "config": {  
+        "process-timeout": 1800  
+      }  
+    }
